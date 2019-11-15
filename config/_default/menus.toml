@@ -15,32 +15,32 @@
   
 [[main]]
   name = "Motivation"
-  url = "#projects"
+  url = "motivation/"
   weight = 30
 
 [[main]]
   name = "Research Interests"
-  url = "#projects"
+  url = "research-interests/"
   weight = 40
 
 [[main]]
   name = "Teaching"
-  url = "#projects"
+  url = "teaching/"
   weight = 30
 
 [[main]]
   name = "Diversity"
-  url = "#featured"
+  url = "diversity/"
   weight = 40
 
-[[main]]
-  name = "Projects"
-  url = "courses/"
-  weight = 50
+#[[main]]
+#  name = "Projects"
+#  url = "courses/"
+#  weight = 50
 
 [[main]]
   name = "About Me"
-  url = "#projects"
+  url = "about-me/"
   weight = 60
   
 [[main]]

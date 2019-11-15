@@ -38,8 +38,18 @@
   </url>
   
   <url>
+    <loc>/about-me/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2019-11-14T22:28:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/diversity/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,6 +60,16 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2019-11-14T22:28:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research-interests/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
+    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -95,6 +115,11 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/motivation/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
