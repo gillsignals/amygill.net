@@ -14,20 +14,30 @@ header:
   image: ""
 ---
 
-- I currently live in Cambridge, MA with my husband Stephen Rosen and our three cats, Geddy, Neil and Alex.
-- I am originally from the Chicago suburbs, where my family still lives.
-- My first word was "why" - an excellent start for a scientist!
-- I have the coolest birthday - 6/7/89 at 10am.
+## Biography
+
+- I am originally from the suburbs of Chicago, where my family still lives.
+- I specialized in biology, chemistry and cancer biology at the University of Chicago, where I was an undergraduate and graduate teaching and research assistant in cancer biology. I then studied biology education and earned my Professional Educator License (IL) in biology and chemistry.
+- I worked as science lab coordinator and sponsored two science clubs at Stevenson High School in Lincolnshire, IL. I stayed involved in research as a weekend lab technician studying the evolution and development of limbs with Neil Shubin at University of Chicago.
+- At Dana-Farber Cancer Institute, I helped generate custom genetic mouse models of chronic lymphocytic leukemia combining CRISPR with hematopoietic stem cell transplants into immunodeficient mice.
+- As my chronic neurological disorder progressed, I learned programming and genomic data science from online courses so that I could transition to bioinformatics and stay involved in biomedical science.
+- I am currently the lead content developer for the Data Science and Genomics Data Analysis online course series from HarvardX.
+- I live in Cambridge, MA with my husband Stephen Rosen and our three cats: Geddy, Neil and Alex.
 
 ## Personal interests
 
+- [Hiking and nature](#hiking-and-nature)
+- [Reading](#reading)
+- [Board Games](#board-games)
+- [Canning](#canning)
+- [Hockey](#hockey)
+
+
 ### Hiking and nature
 
-Stunning landscapes bring me a sense of wonder and peace. Stephen and I love exploring nature, and our favorite way to do so is through day hikes. Although my disability requires me to move slowly and carefully with physical supports, that challenge enhances my joy and sense of accomplishment when I summit a mountain or complete a trail. We hope to travel widely and experience more natural wonders across the world.
+Stunning landscapes bring me a sense of wonder and peace. Stephen and I love exploring nature, and our favorite way to do so is through day hikes. Although my disability requires me to move slowly and carefully with physical supports, that challenge enhances my joy and sense of accomplishment when I summit a mountain or complete a trail. We hope to travel widely and experience more natural wonders across the world. I also live vicariously through nature documentaries.
 
-I also live vicariously through nature documentaries and am immensely grateful to the [BBC Earth](https://www.bbcearth.com/) team for helping me experiences places I may never have the fortune of visiting. I hope that we as a species can preserve these majestic places and stabilize or reverse our environmental impacts that threaten the future of the planet.
-
-Some of my favorite hiking locations (so far):
+**Some of my favorite hiking locations (so far)**:
 
 - [Acadia National Park](https://www.nps.gov/acad/index.htm)
 - [Glacier National Park](https://www.nps.gov/glac/index.htm)
@@ -39,7 +49,7 @@ Some of my favorite hiking locations (so far):
 
 I am a voracious reader primarily interested in nonfiction and science writing, but with a complementary appreciation for classic literature.
 
-Recommended science writing:
+**Recommended science writing:**
 
 - [Your Inner Fish](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453/ref=sr_1_1?crid=UQX0GW3WYRYD&keywords=your+inner+fish&qid=1573825169&s=books&sprefix=your+in%2Cstripbooks%2C157&sr=1-1), Neil Shubin
 - [The Emperor of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/ref=sr_1_1?crid=ZYH8C6G2QG0P&keywords=emperor+of+all+maladies+by+siddhartha+mukherjee&qid=1573825195&s=books&sprefix=empero%2Cstripbooks%2C166&sr=1-1), Siddhartha Mukherjee
@@ -51,12 +61,34 @@ Recommended science writing:
 - [The Disappearing Spoon](https://www.amazon.com/Disappearing-Spoon-Madness-Periodic-Elements/dp/0316051632/ref=sr_1_1?crid=1LPKCKJTLI79X&keywords=disappearing+spoon&qid=1573825425&s=books&sprefix=disappearing+sp%2Cstripbooks%2C149&sr=1-1), Sam Kean
 
 
-Recommended fiction:
+**Recommended fiction:**
 
 - [The Brothers Karamazov](https://www.amazon.com/Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373/ref=sr_1_2?crid=15M15C1AJJTJ&keywords=brothers+karamazov&qid=1573825954&s=books&sprefix=brothers+k%2Cstripbooks%2C160&sr=1-2), Fyodor Dostoyevsky
 - [Crime and Punishment](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_3?crid=2M4DBMW540EGL&keywords=crime+and+punishment&qid=1573825979&s=books&sprefix=crime+and+p%2Cstripbooks%2C189&sr=1-3), Fyodor Dostoyevsky
 - [Les Misérables](https://www.amazon.com/Miserables-Penguin-Classics-Victor-Hugo/dp/0140444300), Victor Hugo
-- [The Great Gatsby](https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567/ref=sr_1_1?crid=37V5BGERBJW88&keywords=great+gatsby&qid=1573825922&s=books&sprefix=great+ga%2Cstripbooks%2C163&sr=1-1), F. Scott Fitzgerald
+- [Heart of Darkness](https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1503275922), Joseph Conrad
+- [The Kite Runner](https://www.amazon.com/Kite-Runner-Khaled-Hosseini/dp/159463193X/ref=sr_1_2?crid=15I78FURMQLRQ&keywords=kite+runner&qid=1573851773&s=books&sprefix=kite+%2Cstripbooks%2C162&sr=1-2), Khaled Hosseini
+
+### Board games
+
+Stephen and I are board game aficionados and have a substantial game collection. We are always interested in finding like-minded gamers to play with.
+
+**Recommended board games:**
+
+- [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic)
+- [Settlers of Catan](https://boardgamegeek.com/boardgame/13/catan)
+- [Ticket to Ride](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
+- [Lords of Waterdeep](https://boardgamegeek.com/boardgame/110327/lords-waterdeep)
+- [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
+- [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
+- [Agricola](https://boardgamegeek.com/boardgame/31260/agricola)
+- [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)
+- [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)
+- [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy)
+- [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+- [Photosynthesis](https://boardgamegeek.com/boardgame/218603/photosynthesis)
+- [Power Grid](https://boardgamegeek.com/boardgame/2651/power-grid)
+- [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 ### Canning
 
@@ -64,4 +96,4 @@ Together, Stephen and I enjoy making jam, jelly and fruit butter from fresh-pick
 
 ### Hockey
 
-Stephen and I are avid hockey fans, especially of the Chicago Blackhawks (though we follow the whole league). One of our goals is to visit every NHL hockey stadium.
+Stephen and I are avid hockey fans, especially of the Chicago Blackhawks (though we follow the whole NHL). One of our goals is to visit every NHL hockey stadium.

@@ -33,6 +33,31 @@
   </url>
   
   <url>
+    <loc>/tags/biology/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/brca-ds-capstone/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-11-14T22:28:57-05:00</lastmod>
   </url>
@@ -73,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/project/dslabs-dsbook/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019-07-19-simply-stats/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
@@ -99,11 +129,6 @@
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,11 +174,6 @@
   
   <url>
     <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -310,6 +330,11 @@
   <url>
     <loc>/authors/t.j.-kipps/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/thesis-proposal/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
