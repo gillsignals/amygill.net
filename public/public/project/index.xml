@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Amy Gill</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Data Science Capstone: Breast Cancer Prediction</title>
+      <link>/project/brca-ds-capstone/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/brca-ds-capstone/</guid>
+      <description>&lt;p&gt;This was my capstone project for the &lt;a href=&#34;https://www.edx.org/professional-certificate/harvardx-data-science&#34; target=&#34;_blank&#34;&gt;HarvardX Data Science Professional Certificate&lt;/a&gt;. It demonstrates competency in R programming, statstical modeling and basic machine learning.&lt;/p&gt;
+
+&lt;p&gt;The goal of this study was to train a machine learning classifier to predict whether a breast tumor is malignant (cancer) or benign (not cancer) based on cell nucleus features extracted from digitized images of breast biopsy slides. It makes use of the &lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)&#34; target=&#34;_blank&#34;&gt;Breast Cancer Wisconsin Diagnostic Data Set&lt;/a&gt;, a classic machine learning benchmarking dataset. Results and implications are analyzed from the perspective of a cancer biologist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HarvardX Data Science Series Updates</title>
+      <link>/project/dslabs-dsbook/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/dslabs-dsbook/</guid>
+      <description>&lt;p&gt;I began programming as a student in the &lt;a href=&#34;https://www.edx.org/professional-certificate/harvardx-data-science&#34; target=&#34;_blank&#34;&gt;HarvardX Data Science Professional Program&lt;/a&gt;, a massive open online course series from Rafael Irizarry on edX.
+To become more comfortable with coding and project workflows, I contributed dozens of edits to the course textbook, &lt;a href=&#34;https://rafalab.github.io/dsbook/&#34; target=&#34;_blank&#34;&gt;Introduction to Data Science&lt;/a&gt;, via its open source &lt;a href=&#34;https://github.com/rafalab/dsbook&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;. I initially acted as a volunteer, systematically revewing the textbook and acting as a community teaching assistant, but my diligence earned me a full-time position improving the course series.&lt;/p&gt;
+
+&lt;p&gt;As the new lead content developer for the program, my first major project was to write additional assessments for the courses in order to add value to the certificate. I formatted these problem sets as case studies and included relevant data in the course series R package, &lt;a href=&#34;https://cran.r-project.org/web/packages/dslabs/index.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;dslabs&lt;/strong&gt;, available on CRAN&lt;/a&gt;. I added 7 new datasets to &lt;strong&gt;dslabs&lt;/strong&gt; with documentation and scripts. I wrote a &lt;a href=&#34;https://simplystatistics.org/2019/07/19/more-datasets-for-teaching-data-science-the-expanded-dslabs-package/&#34; target=&#34;_blank&#34;&gt;guest post on Simply Statistics&lt;/a&gt; describing the new datasets and demonstrating some potential uses.&lt;/p&gt;
+
+&lt;p&gt;The new problem sets launched in the July 2019 versions of the &lt;a href=&#34;https://www.edx.org/professional-certificate/harvardx-data-science&#34; target=&#34;_blank&#34;&gt;HarvardX Data Science Professional Certificate&lt;/a&gt; courses, which currently have over 75,000 unique enrolled learners. In that course release, I also added supplemental notes and links to the accompanying textbook on every content page. I currently supervise a team of TAs answering student queries on the course discussion boards and maintain existing materials.&lt;/p&gt;
+
+&lt;p&gt;My current projects involve revising the &lt;a href=&#34;https://www.edx.org/xseries/genomics-data-analysis&#34; target=&#34;_blank&#34;&gt;HarvardX Genomics Data Analysis XSeries&lt;/a&gt; for release in March 2020 and co-authoring the official solution manual for the &lt;a href=&#34;https://rafalab.github.io/dsbook&#34; target=&#34;_blank&#34;&gt;Introduction to Data Science textbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UChicago Thesis Proposal</title>
+      <link>/project/thesis-proposal/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/project/thesis-proposal/</guid>
+      <description>
+
+&lt;p&gt;For my thesis proposal for the Committee on Cancer Biology at University of Chicago in 2013, I proposed a series of in vitro and in vivo experiments to elucidate the cell signaling of Blimp1 (PRDM1) following induction by ionizing radiation (IR). IR exposure durng cancer radiotherapy damages healthy tissue and risks causing radiogenic second cancers as a late side effect of treatment, particularly for pediatric cancers. A previous GWAS study implicated a SNP causing differential expression of Blimp1 and differential induction of Blimp1 expression as an extremely powerful predictor of secondary breast cancer following radiotherapy for pediatric cancers. Individuals with the genotype associated with increased Blimp1 expression after IR exposure had a significantly lower risk of secondary cancer compared to individuals with the genotype associated with non-inducible Blimp1 expression following IR exposure. My goals was to elucidate the signaling pathways induced by Blimp1 in response to radiotherapy in order to clarify why Blimp1 expression in that context might be protective against future cancer.&lt;/p&gt;
+
+&lt;p&gt;I successfully obtained PhD candidacy with this proposal. These documents support my ability to design independent research, perform preliminary studies, and communicate science.&lt;/p&gt;
+
+&lt;p&gt;I ultimately did not complete this project due to a toxic work environment in my lab. With the support of the dean of the Biological Sciences Division, I sought a new lab, but my advanced standing in the program complicated funding for my prospective mentors. I chose to leave with my master&amp;rsquo;s degree and focus primarily on biology education while working part-time in research. Ultimately I decided to return to a career more engaged in research, leading me back to graduate school.&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Radiogenic cancer is a common consequence of ionizing radiation (IR) exposure from radiation therapy (RT). Genetic variants in the Blimp1 (PRDM1) locus modulate the risk of second cancers following RT. Preliminary data suggest Blimp1 is activated by IR and protects against radiogenic cancer. I intend to determine the cellular and molecular mechanisms by which Blimp1 protects against radiogenic cancer. Blimp1 is a pleiotropic transcriptional repressor with diverse roles in regulating stress responses in the immune system and epithelial cells. I hypothesize that IR-mediated Blimp1 activation protects against breast tumorigenesis by modulating stress response pathways in breast cells and/or immune cells. First, I will determine the mechanism of Blimp1 activation by IR, both by determining the cell types in which Blimp1 is activated by IR and by testing whether IR activates Blimp1 via NFκB. Then, I will determine the cellular and molecular consequences of IR-mediated Blimp1 activation. In response to stress, Blimp1 often reduces proliferation and survival in inflammatory and epithelial cells. Consequently, I will test whether IR-mediated Blimp1 activation modulates cell proliferation and survival. I will determine whether IR-activated Blimp1 represses a set of candidate Blimp1 target genes that regulate proliferation, survival, and inflammation. Last, I will establish whether Blimp1 protects against radiogenic cancers in vivo in two mouse models of radiogenic cancer. I will knock down Blimp1 in p53-/- primary mouse mammary epithelial cells, xenograft these cells into cleared mammary fat pads, then irradiate the mice and determine whether Blimp1 knockdown reduces breast tumor latency and therefore increases radiogenic cancer risk. In addition, I will test whether Blimp1 more generally protects against a range of radiogenic cancers by irradiating p53+/- mice in a Blimp1 wild-type or heterozygous background to determine whether Blimp1 deficiency reduces the latency of radiogenic cancers in a variety of tissues. If successful, I will elucidate the mechanisms by which IR activates Blimp1, the cellular and molecular consequences of IR-mediated Blimp1 activation, and whether Blimp1 indeed protects against radiogenic cancers in vivo. This proposal is significant because Blimp1 activity could be modulated to protect individuals undergoing RT from radiogenic cancers, and because Blimp1 is a common component of stress response and inflammatory processes and these findings could have wider implications for normal tissue biology and protection against other stress-induced cancers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
