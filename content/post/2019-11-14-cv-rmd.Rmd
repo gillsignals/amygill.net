@@ -1,0 +1,41 @@
+---
+title: "My new CV in pagedown"
+author: Amy Gill
+date: '2019-11-14'
+slug: cv-rmd
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: [admin]
+lastmod: '2019-11-14T22:28:57-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Updating my CV
+
+As part of my graduate school application process, I recently recreated my CV in [pagedown](https://pagedown.rbind.io/), an R package for making PDFs and other documents. The **pagedown** package contains a built-in template for an HTML resume. For far too long, I have relied on basic Microsoft Word templates to create resumes, and as my experience grew, formatting issues became constraining and minor edits would completely distort the end product. This was an excellent opportunity to create a more robust CV.
+
+## Standing on the shoulders of giants
+
+Rather than starting from scratch, I forked [Nick Strayer's CV repository on GitHub](https://github.com/nstrayer/cv). Having a complete professional example to customize to my own needs made the process a lot smoother. I also strongly appreciated the notes in the repository README with instructions on how to customize the CV template. Kudos to Nick for helping me create a quite professional end product, if I do say so myself!
+
+## CV Improvements
+
+- I now have hyperlinks to publications, selected science writings, my online courses and more! This is definitely my favorite improvement, and I hope it helps the CV act as an online portfolio for doctoral applications.
+- I put several content sections in a sidebar that I believe makes the final document more compact and navigable. (My last version in Microsoft Word had this feature too, but the formatting was too fragile to small changes.)
+- I learned how to use FontAwesome icons in HTML - programmer emojis!
+
+## Acknowledgments
+
+Thanks to:
+
+- [Yihui Xie](yihui.name) and Romain Lesur for designing **pagedown** and providing starter guide.
+- [Nick Strayer](nickstrayer.me) for providing his **pagedown** CV template and customization instructions.
+- The [#rstats](https://twitter.com/hashtag/rstats?lang=en) community for posting conference updates that alerted me to **pagedown** in the first place.
+- And last but certainly not least, special thanks to my wonderful husband [Stephen Rosen](http://sirosen.net/) for patiently helping me figure out enough CSS to successfully reformat my sidebars and showing me how to inspect HTML/CSS elements from inside the browser. I'm learning every day thanks to you!
