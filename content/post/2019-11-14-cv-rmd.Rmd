@@ -35,7 +35,7 @@ Rather than starting from scratch, I forked [Nick Strayer's CV repository on Git
 
 Thanks to:
 
-- [Yihui Xie](yihui.name) and Romain Lesur for designing **pagedown** and providing starter guide.
-- [Nick Strayer](nickstrayer.me) for providing his **pagedown** CV template and customization instructions.
+- [Yihui Xie](https://yihui.name) and Romain Lesur for designing **pagedown** and providing starter guide.
+- [Nick Strayer](https://nickstrayer.me) for providing his **pagedown** CV template and customization instructions.
 - The [#rstats](https://twitter.com/hashtag/rstats?lang=en) community for posting conference updates that alerted me to **pagedown** in the first place.
 - And last but certainly not least, special thanks to my wonderful husband [Stephen Rosen](http://sirosen.net/) for patiently helping me figure out enough CSS to successfully reformat my sidebars and showing me how to inspect HTML/CSS elements from inside the browser. I'm learning every day thanks to you!
