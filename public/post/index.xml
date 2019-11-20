@@ -40,8 +40,8 @@
 &lt;h2&gt;Acknowledgments&lt;/h2&gt;
 &lt;p&gt;Thanks to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;yihui.name&#34;&gt;Yihui Xie&lt;/a&gt; and Romain Lesur for designing &lt;strong&gt;pagedown&lt;/strong&gt; and providing starter guide.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;nickstrayer.me&#34;&gt;Nick Strayer&lt;/a&gt; for providing his &lt;strong&gt;pagedown&lt;/strong&gt; CV template and customization instructions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yihui.name&#34;&gt;Yihui Xie&lt;/a&gt; and Romain Lesur for designing &lt;strong&gt;pagedown&lt;/strong&gt; and providing starter guide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nickstrayer.me&#34;&gt;Nick Strayer&lt;/a&gt; for providing his &lt;strong&gt;pagedown&lt;/strong&gt; CV template and customization instructions.&lt;/li&gt;
 &lt;li&gt;The &lt;a href=&#34;https://twitter.com/hashtag/rstats?lang=en&#34;&gt;#rstats&lt;/a&gt; community for posting conference updates that alerted me to &lt;strong&gt;pagedown&lt;/strong&gt; in the first place.&lt;/li&gt;
 &lt;li&gt;And last but certainly not least, special thanks to my wonderful husband &lt;a href=&#34;http://sirosen.net/&#34;&gt;Stephen Rosen&lt;/a&gt; for patiently helping me figure out enough CSS to successfully reformat my sidebars and showing me how to inspect HTML/CSS elements from inside the browser. I’m learning every day thanks to you!&lt;/li&gt;
 &lt;/ul&gt;
