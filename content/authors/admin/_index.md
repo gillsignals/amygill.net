@@ -48,4 +48,4 @@ Biomedical science is my profession. I am a biologist, teacher and data scientis
 
 I currently seek a doctoral program to enhance my bioinformatics skills, practice teaching and perform patient-centered research. My primary passions are cancer systems biology and quantitative biology education. My career objectives are to teach quantitative biology skills to current and aspiring researchers while contributing to research that advances patient care.
 
-Learn more about my motivation for science, research interests, teaching, diversity and personal background by exploring my site or reading my CV.
+Learn more about my [motivation for science](/motivation), [research interests](/research-interests), [teaching](/teaching), [diversity](/diversity) and [personal background](/about-me) by exploring my site or [reading my CV](/cv).
