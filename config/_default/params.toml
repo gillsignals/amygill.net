@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "160 Cambridgepark Drive Unit 157", city = "Cambridge", region = "MA", postcode = "02140", country = "United States", country_code = "US"}
+address = {street = "102 W 39th Street #1B", city = "Baltimore", region = "MD", postcode = "21210", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.394530", longitude = "-71.148145"}
+coordinates = {latitude = "39.336359", longitude = "-76.621103"}
 
 # Directions for visitors to locate you.
 directions = ""

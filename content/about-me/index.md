@@ -21,8 +21,9 @@ header:
 - I worked as science lab coordinator and sponsored two science clubs at Stevenson High School in Lincolnshire, IL. I stayed involved in research as a weekend lab technician studying the evolution and development of limbs with Neil Shubin at University of Chicago.
 - At Dana-Farber Cancer Institute, I helped generate custom genetic mouse models of chronic lymphocytic leukemia combining CRISPR with hematopoietic stem cell transplants into immunodeficient mice.
 - As my chronic neurological disorder progressed, I learned programming and genomic data science from online courses so that I could transition to bioinformatics and stay involved in biomedical science.
-- I am currently the lead content developer for the Data Science and Genomics Data Analysis online course series from HarvardX.
-- I live in Cambridge, MA with my husband Stephen Rosen and our three cats: Geddy, Neil and Alex.
+- I spent a year as lead content developer for the Data Science and Genomics Data Analysis online course series from HarvardX.
+- I am now a PhD student in Biomedical Engineering at Johns Hopkins University, where I am part of the [Feilim Mac Gabhann lab](https://macglab.icm.jhu.edu/). I am beginning research on computational modeling of cancer cell signaling.
+- I live in Baltimore, MD with my husband Stephen Rosen and our two cats, Neil and Alex. We miss our third "RushCat" Geddy, who we lost to cancer in 2020.
 
 ## Personal interests
 
@@ -47,11 +48,12 @@ Stunning landscapes bring me a sense of wonder and peace. Stephen and I love exp
 
 ### Reading
 
-I am a voracious reader primarily interested in nonfiction and science writing, but with a complementary appreciation for classic literature.
+I am a voracious reader primarily interested in nonfiction and popular science writing, but with a complementary appreciation for classic literature.
 
-**Recommended science writing:**
+**Recommended popular science:**
 
 - [Your Inner Fish](https://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0307277453/ref=sr_1_1?crid=UQX0GW3WYRYD&keywords=your+inner+fish&qid=1573825169&s=books&sprefix=your+in%2Cstripbooks%2C157&sr=1-1), Neil Shubin
+- [The Web of Life](https://www.amazon.com/Web-Life-Scientific-Understanding-Systems/dp/0385476760), Fritjof Capra
 - [The Emperor of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/ref=sr_1_1?crid=ZYH8C6G2QG0P&keywords=emperor+of+all+maladies+by+siddhartha+mukherjee&qid=1573825195&s=books&sprefix=empero%2Cstripbooks%2C166&sr=1-1), Siddhartha Mukherjee
 - [The Botany of Desire](https://www.amazon.com/Botany-Desire-Plants-Eye-View-World/dp/0375760393/ref=sr_1_1?crid=2AAV6WNORPU33&keywords=botany+of+desire&qid=1573825225&s=books&sprefix=botany+of+de%2Cstripbooks%2C150&sr=1-1), Michael Pollan
 - [The Making of the Fittest](https://www.amazon.com/Making-Fittest-Ultimate-Forensic-Evolution/dp/0393330516/ref=sr_1_1?crid=5A91EGFPHKOR&keywords=making+of+the+fittest&qid=1573825262&s=books&sprefix=making+of+the+fi%2Cstripbooks%2C153&sr=1-1), Sean B. Carroll
@@ -66,7 +68,7 @@ I am a voracious reader primarily interested in nonfiction and science writing, 
 - [The Brothers Karamazov](https://www.amazon.com/Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373/ref=sr_1_2?crid=15M15C1AJJTJ&keywords=brothers+karamazov&qid=1573825954&s=books&sprefix=brothers+k%2Cstripbooks%2C160&sr=1-2), Fyodor Dostoyevsky
 - [Crime and Punishment](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_3?crid=2M4DBMW540EGL&keywords=crime+and+punishment&qid=1573825979&s=books&sprefix=crime+and+p%2Cstripbooks%2C189&sr=1-3), Fyodor Dostoyevsky
 - [Les Misérables](https://www.amazon.com/Miserables-Penguin-Classics-Victor-Hugo/dp/0140444300), Victor Hugo
-- [Heart of Darkness](https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1503275922), Joseph Conrad
+- [The Heart of Darkness](https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1503275922), Joseph Conrad
 - [The Kite Runner](https://www.amazon.com/Kite-Runner-Khaled-Hosseini/dp/159463193X/ref=sr_1_2?crid=15I78FURMQLRQ&keywords=kite+runner&qid=1573851773&s=books&sprefix=kite+%2Cstripbooks%2C162&sr=1-2), Khaled Hosseini
 
 ### Board games
@@ -75,6 +77,7 @@ Stephen and I are board game aficionados and have a substantial game collection.
 
 **Recommended board games:**
 
+- [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)
 - [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic)
 - [Settlers of Catan](https://boardgamegeek.com/boardgame/13/catan)
 - [Ticket to Ride](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
@@ -82,7 +85,6 @@ Stephen and I are board game aficionados and have a substantial game collection.
 - [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
 - [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
 - [Agricola](https://boardgamegeek.com/boardgame/31260/agricola)
-- [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)
 - [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)
 - [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy)
 - [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)

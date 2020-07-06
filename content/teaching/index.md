@@ -42,4 +42,4 @@ My rare combination of biology knowledge, teaching aptitude, programming and qua
 - Teaching assistant, BCMB 30400: Protein Fundamentals. University of Chicago, Chicago, IL. 2012.
 - Teaching assistant, BIOS 20235: Biological Systems. University of Chicago, Chicago, IL. 2009.
 
-For more details, feel free to read my CV.
+For more details, feel free to read my [CV](/cv).
